@@ -1,6 +1,6 @@
 # Project Name
 
-Brief description of your project.
+This project aims to be a web crawler for claim codes 
 
 ## Installation
 
